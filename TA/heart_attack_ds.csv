@@ -1,5 +1,5 @@
-age,sex,cp,trestbps,chol,thalach,output,,,Source:
-63,male,asymptomatic,145,233,150,1,,,https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+age,sex,cp,trestbps,chol,thalach,output,,,
+63,male,asymptomatic,145,233,150,1,,,
 37,male,non-anginal pain,130,250,187,1,,,
 41,female,atypical angina,130,204,172,1,,,
 56,male,atypical angina,120,236,178,1,,,
